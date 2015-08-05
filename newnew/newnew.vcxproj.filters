@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Account">
+      <UniqueIdentifier>{45244c4e-e1c1-46a5-a0ce-f6dfcf3ce0ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Account">
+      <UniqueIdentifier>{308a170c-1780-41d6-9bb3-ea16ec5a7ae6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataStructer">
+      <UniqueIdentifier>{7df8e59a-4187-4da3-92b7-0b67975160ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BANK header">
+      <UniqueIdentifier>{9aadd72f-e35c-47ba-9b69-ef885876b18e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TELLER">
+      <UniqueIdentifier>{0c7a24fb-46f1-4d7d-94a6-22ceb60b760a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ATM">
+      <UniqueIdentifier>{ffba976d-e813-45f4-b385-9c78413d2e61}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\newnew.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\newnew.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="..\..\..\Atm\ATM\res\ATM.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="newaccaunt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kindofaccount.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="accountinfo.h">
+      <Filter>Header Account</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>Header Account</Filter>
+    </ClInclude>
+    <ClInclude Include="KindofAccount1.h">
+      <Filter>Header Account</Filter>
+    </ClInclude>
+    <ClInclude Include="Visa.h">
+      <Filter>Header Account</Filter>
+    </ClInclude>
+    <ClInclude Include="Clerck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BankDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bank.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bankinterface.h">
+      <Filter>BANK header</Filter>
+    </ClInclude>
+    <ClInclude Include="teller.h">
+      <Filter>TELLER</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchAccount.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tellertransactions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ATM.h">
+      <Filter>ATM</Filter>
+    </ClInclude>
+    <ClInclude Include="THEATM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Atm\ATM\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="newaccaunt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kindofaccount.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Visa.cpp">
+      <Filter>Source Account</Filter>
+    </ClCompile>
+    <ClCompile Include="kindofaccount1.cpp">
+      <Filter>Source Account</Filter>
+    </ClCompile>
+    <ClCompile Include="accountinfo.cpp">
+      <Filter>Source Account</Filter>
+    </ClCompile>
+    <ClCompile Include="account.cpp">
+      <Filter>Source Account</Filter>
+    </ClCompile>
+    <ClCompile Include="Bank.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BankDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Clerck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bankinterface.cpp">
+      <Filter>BANK header</Filter>
+    </ClCompile>
+    <ClCompile Include="teller.cpp">
+      <Filter>TELLER</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchAccount.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tellertransactions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="atm.cpp">
+      <Filter>ATM</Filter>
+    </ClCompile>
+    <ClCompile Include="THEATM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="newnew.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="..\..\..\Atm\ATM\ATM.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

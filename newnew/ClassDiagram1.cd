@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BankDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kindofaccount" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQACQAqgACgBAEAABAAAGAAAAAAAEAARAAECABAAAI=</HashCode>
+      <FileName>kindofaccount.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NEW" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQgAAAAACAAIABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clerck.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="newaccaunt" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAECAAAAEAABkAIABAoQCBAQAAABAAQhCBAESAAAAA=</HashCode>
+      <FileName>newaccaunt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CnewnewDlg" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACACAEAAAAAAAAAABAAAIAAAABAAAQAAAAAAAAQAAA=</HashCode>
+      <FileName>BankDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchAccount" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAIAAIIAIAAAAIABAAgCAAAAAUAAAASQEAgAAACAA=</HashCode>
+      <FileName>SearchAccount.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CnewnewApp" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEAAA=</HashCode>
+      <FileName>Bank.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tellertransactions" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAABAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tellertransactions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="account" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgADAAAAEgAEAAAAAAAAAOSAAAAAIAABAAUQAAAAA=</HashCode>
+      <FileName>Account.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="accountinfo" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAABAMgEEQKEAAAAAAIAAAAAoAEAGMAMAAgI=</HashCode>
+      <FileName>accountinfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="student" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAEAAAAAAIAAACAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>KindofAccount1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="privatea" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KindofAccount1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="buisness" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KindofAccount1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="visa" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAIAAAAAAAAAAAAAAAAAIEAAAAIAAAA=</HashCode>
+      <FileName>Visa.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bankinterface" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIQAABFEAAAAAAAABAAAAIAAAAEAAAACAEAAAAA=</HashCode>
+      <FileName>Bankinterface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="teller" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAgEAAAAAAAAAAAAAAAEABEAAAEAAAgAAAIA=</HashCode>
+      <FileName>teller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,51 @@
+﻿Build started 05.08.2015 15:13:06.
+     1>Project "C:\Users\RomaMarg\Google Диск\Big poject-Bank\newnew\newnew.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\newnew.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\newnew.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt account.cpp accountinfo.cpp atm.cpp bankinterface.cpp kindofaccount.cpp kindofaccount1.cpp Clerck.cpp newaccaunt.cpp Bank.cpp BankDlg.cpp SearchAccount.cpp teller.cpp tellertransactions.cpp THEATM.cpp Visa.cpp
+         Visa.cpp
+         THEATM.cpp
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\theatm.cpp(135): warning C4101: 'sum' : unreferenced local variable
+         tellertransactions.cpp
+         teller.cpp
+         SearchAccount.cpp
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\searchaccount.cpp(161): warning C4018: '<' : signed/unsigned mismatch
+         BankDlg.cpp
+         Bank.cpp
+         newaccaunt.cpp
+         Clerck.cpp
+         kindofaccount1.cpp
+         kindofaccount.cpp
+         bankinterface.cpp
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\bankinterface.cpp(18): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\bankinterface.cpp(25): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\bankinterface.cpp(32): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\bankinterface.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\bankinterface.cpp(40): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\bankinterface.cpp(47): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\bankinterface.cpp(54): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\bankinterface.cpp(55): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\bankinterface.cpp(61): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\bankinterface.cpp(62): warning C4018: '<' : signed/unsigned mismatch
+         atm.cpp
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\atm.cpp(49): warning C4552: '-' : operator has no effect; expected operator with side-effect
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\atm.cpp(50): warning C4552: '-' : operator has no effect; expected operator with side-effect
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\atm.cpp(56): warning C4552: '-' : operator has no effect; expected operator with side-effect
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\atm.cpp(57): warning C4552: '-' : operator has no effect; expected operator with side-effect
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\atm.cpp(60): warning C4552: '-' : operator has no effect; expected operator with side-effect
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\atm.cpp(64): warning C4552: '-' : operator has no effect; expected operator with side-effect
+         accountinfo.cpp
+         account.cpp
+         Generating Code...
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\bankinterface.cpp(58): warning C4715: 'bankinterface::searchaccountnumber' : not all control paths return a value
+     1>c:\users\romamarg\google диск\big poject-bank\newnew\bankinterface.cpp(65): warning C4715: 'bankinterface::getaccount' : not all control paths return a value
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\ATM.res" ..\..\..\Atm\ATM\ATM.rc 
+     1>RC : fatal error RC1110: could not open ..\..\..\Atm\ATM\ATM.rc
+         
+     1>Done Building Project "C:\Users\RomaMarg\Google Диск\Big poject-Bank\newnew\newnew.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:17.31
